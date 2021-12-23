@@ -1,10 +1,9 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1> Hello Fellow </ Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=benjithorpe.benjithorpe)
-
-</p>
-<div size='20px'> Hi! My name is Benjamin Thorpe. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> 
+  Hi! My name is Benjamin Thorpe. I am a Backend Developer interested mostly in Python and Flask. 
+  
+  Thanks for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
