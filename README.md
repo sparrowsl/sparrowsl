@@ -1,7 +1,7 @@
 <h1> Hello Fellow </ Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <div size='20px'> 
-  Hi! My name is Benjamin Thorpe. I am a Backend Developer interested mostly in Python and Flask. 
+  Hi! My name is Benjamin Thorpe. I am a Web Developer interested mostly in building/working on cool projects. 
   
   Thanks for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -13,15 +13,16 @@
 
 - 🔭 I’m currently working on Building many useful apps that I or other people can use in the future and also growing my skills.
 
-- 🌱 I’m currently learning Python and Flask 
+- 🌱 I’m currently learning JavaScript 
 
 - 👯 I’m looking to collaborate on Projects or anything interesting and fun.
 
 
-- 💬 Talk to me about Python, Flask, Freelancing Opportunites, Open Source, Mobile Games, Chess 
+- 💬 Talk to me about Python, JavaScript, Flask, Svelte, Freelancing Opportunites, Open Source, Chess 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
