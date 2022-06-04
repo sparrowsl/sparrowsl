@@ -1,10 +1,6 @@
-<h1> Hello Fellow Developer! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30'> </h1>
+<h1> Hello there! I'm Benjamin Thorpe <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30'> </h1>
 
-<div size='20px'> 
-  Hi! My name is Benjamin Thorpe. I am a Web Developer interested mostly in building/working on cool projects. 
-  
-  Thanks for taking the time to view my GitHub Profile :smile: 
-</div>
+> I am a Web Developer. 
 
 <h2> About Me </h2>
 
@@ -12,9 +8,10 @@
 
 - 🌱 I’m currently learning JavaScript, Svelte/Sveltekit, Python, Flask 
 
-- 👯 I’m looking to collaborate on projects or anything interesting and fun.
+- 👯 I’m looking to contribute on projects with other developers.
 
 - 💬 Talk to me about HTML, CSS, JavaScript, Svelte, Python, Flask, Open Source, Chess
+
 
 <h2> Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> </h2>
 <!-- HTML -->
