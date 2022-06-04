@@ -1,4 +1,4 @@
-<h1> Hello Fellow </ Developers >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow Developer! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <div size='20px'> 
   Hi! My name is Benjamin Thorpe. I am a Web Developer interested mostly in building/working on cool projects. 
@@ -11,16 +11,16 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Building many useful apps that I or other people can use in the future and also growing my skills.
+- 🔭 I’m currently working on building many useful apps that I or other people can use in the future and also growing my skills.
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript, Svelte/SvelteKit, Python, Flask
 
-- 👯 I’m looking to collaborate on Projects or anything interesting and fun.
-
+- 👯 I’m looking to contribute on projects or anything interesting and fun.
 
 - 💬 Talk to me about HTML, CSS, JavaScript, Svelte, Python, Flask, Freelancing Opportunites, Open Source, Chess
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Technologies
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 10px> </h2>
 <!-- HTML -->
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <!-- CSS -->
