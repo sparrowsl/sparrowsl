@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on building many useful apps that I or other people can use in the future and also growing my skills.
 
-- 🌱 I’m currently learning JavaScript, Svelte/Sveltekit, Python 
+- 🌱 I’m currently learning JavaScript, Svelte/Sveltekit, Nodejs 
 
 - 👯 I’m looking to contribute on projects with other developers.
 
