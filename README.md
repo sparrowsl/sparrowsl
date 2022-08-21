@@ -40,4 +40,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=benjithorpe&count_private=true&show_icons=true&theme=material-palenight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjithorpe&theme=material-palenight&hide=java" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjithorpe&theme=material-palenight&hide=java&layout=compact" />
