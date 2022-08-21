@@ -1,8 +1,7 @@
-<h1> Hello there! I'm Benjamin Thorpe <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30'> </h1>
+# Hello there! I'm Benjamin Thorpe <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30'>
 
-> I am a Web Developer. 
 
-<h2> About Me </h2>
+## About Me 
 
 - 🔭 I’m currently working on building many useful apps that I or other people can use in the future and also growing my skills.
 
@@ -39,6 +38,6 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30'> </h2>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=benjithorpe&count_private=true&show_icons=true&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=benjithorpe&count_private=true&show_icons=true&theme=material-palenight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjithorpe&theme=default&hide=java" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjithorpe&theme=material-palenight&hide=java" />
