@@ -3,14 +3,11 @@
 
 ## About Me 
 
-- 🔭 I’m currently working on building useful apps that would be useful to me or other people.
+- 🔭 I’m currently building apps that would be useful to me or other people.
 
 - 🌱 I’m currently learning JavaScript, Svelte/Sveltekit, Nodejs, Express.js
 
 - 👯 I’m looking to contribute on projects with other developers.
-
-- 💬 Talk to me about HTML, CSS, JavaScript, Svelte, Python, Flask, Open Source, Chess, etc...
-
 
 ## Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
 
@@ -25,14 +22,14 @@
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <!-- Svelte -->
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=svelte&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </a>
-<!-- Python -->
-<a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <!-- Node -->
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <!-- Express -->
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
 <!-- Netlify -->
-<a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=netlify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vercel.svg'> </a>
+<a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=netlify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/netlify.svg'> </a>
+<!-- Vercel -->
+<a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=vercel&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vercel-dark.svg'> </a>
 <!-- Git -->
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 </div>
