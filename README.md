@@ -1,12 +1,8 @@
 # Hello there! I'm Benjamin Thorpe <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30'>
 
 
-## About Me 
-
 - 🔭 I’m currently building apps that would be useful to me or other people.
-
 - 🌱 I’m currently learning JavaScript, Svelte/Sveltekit, Nodejs, Express.js
-
 - 👯 I’m looking to contribute on projects with other developers.
 
 ## Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
