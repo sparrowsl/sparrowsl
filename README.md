@@ -54,14 +54,18 @@ src="https://img.shields.io/github/followers/benjithorpe?logo=github&style=for-t
 ### Socials
 
 <p align="left"> 
-<a href="https://discord.com/users/Sparr0w#9195" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/benjithorpe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/benjamini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/Sparr0w#9195" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/benjithorpe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/benjamini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=benjithorpe&count_private=true&show_icons=true&theme=material-palenight" alt="benjithorpe's GitHub stats" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=benjithorpe&count_private=true&show_icons=true&theme=material-palenight" alt="benjithorpe's GitHub stats" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benjithorpe&theme=material-palenight&hide_border=true&border_radius=5&type=png)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=benjithorpe&theme=material-palenight&hide_border=true&border_radius=5" />
+</div>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=benjithorpe&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
-<a href="https://github.com/benjithorpe" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjithorpe&theme=material-palenight&layout=compact" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjithorpe&theme=material-palenight&layout=compact" alt="Top Languages"/>
