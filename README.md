@@ -10,7 +10,7 @@ I am super addicted to Svelte(Kit) and building fast, smooth, responsive, flexib
 * 🖥️  See my portfolio at [benthorpe.dev](http://www.benthorpe.dev)
 * ✉️  You can contact me at [benthorpe.dev@gmail.com](mailto:benthorpe.dev@gmail.com)
 * 🚀  I'm currently working on [SRMS (student result management system)](http://github.com/benjithorpe/SRMS)
-* 🧠  I'm learning JavaScript, Sveltekit, Solidjs, Node, Flutter, UnoCSS
+* 🧠  I'm learning JavaScript, Sveltekit, Solidjs, Node, Flutter, UnoCSS, Express.js
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
 * ⚡  I prefer Backend 🤪🤪 but I love Sveltekit more😂😂
 
