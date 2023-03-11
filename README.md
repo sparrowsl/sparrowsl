@@ -58,10 +58,10 @@ src="https://img.shields.io/github/followers/benjithorpe?logo=github&style=for-t
 </p>
 
 
-<a href="http://www.github.com/benjithorpe"><img align="left" src="https://github-readme-stats.vercel.app/api?username=benjithorpe&count_private=true&show_icons=true&theme=material-palenight" alt="benjithorpe's GitHub stats" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=benjithorpe&count_private=true&show_icons=true&theme=material-palenight" alt="benjithorpe's GitHub stats" />
 
-<a href="http://www.github.com/benjithorpe">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benjithorpe&theme=material-palenight&hide_border=true&border_radius=5&type=png)](https://git.io/streak-stats)</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benjithorpe&theme=material-palenight&hide_border=true&border_radius=5&type=png)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/benjithorpe"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=benjithorpe&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=benjithorpe&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
 <a href="https://github.com/benjithorpe" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjithorpe&theme=material-palenight&layout=compact" alt="Top Languages" /></a>
