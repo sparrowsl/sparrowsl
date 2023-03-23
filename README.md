@@ -9,8 +9,8 @@ I am super addicted to Svelte(Kit) and building fast, smooth, responsive, flexib
 * 🌍  I'm based in Sierra Leone
 * 🖥️  See my portfolio at [benthorpe.dev](http://www.benthorpe.dev)
 * ✉️  You can contact me at [benthorpe.dev@gmail.com](mailto:benthorpe.dev@gmail.com)
-* 🚀  I'm currently working on [SRMS (student result management system)](http://github.com/benjithorpe/SRMS)
-* 🧠  I'm currently learning Node.js, Flutter, UnoCSS, Express.js
+<!-- * 🚀  I'm currently working on [SRMS (student result management system)](http://github.com/benjithorpe/SRMS) -->
+* 🧠  I'm currently learning Node.js, UnoCSS, MongoDB, Express.js
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
 * ⚡  I prefer Backend 🤪🤪 but I love Sveltekit more😂😂
 
@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/benjithorpe?logo=github&style=for-t
 <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <!-- MongoDB -->
-<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <!-- Flutter -->
 <!-- <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> -->
 <!-- Netlify -->
