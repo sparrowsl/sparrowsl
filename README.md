@@ -9,13 +9,13 @@ I am super addicted to Svelte(Kit) and building fast, smooth, responsive, flexib
 * 🌍  I'm based in Sierra Leone
 * 🖥️  See my portfolio at [benthorpe.dev](http://www.benthorpe.dev)
 * ✉️  You can contact me at [benthorpe.dev@gmail.com](mailto:benthorpe.dev@gmail.com)
-<!-- * 🚀  I'm currently working on [SRMS (student result management system)](http://github.com/benjithorpe/SRMS) -->
 * 🧠  I'm currently learning Node.js, UnoCSS, MongoDB, Express.js
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
-* ⚡  I prefer Backend 🤪🤪 but I love Sveltekit more😂😂
+* ⚡  I prefer and love Backend 🤪🤪 but I use Sveltekit more😂😂
+<!-- * 🚀  I'm currently working on [SRMS (student result management system)](http://github.com/benjithorpe/SRMS) -->
 
-<a href="https://www.github.com/benjithorpe" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/benjithorpe?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
+<a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
 ### Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
 
@@ -55,17 +55,17 @@ src="https://img.shields.io/github/followers/benjithorpe?logo=github&style=for-t
 
 <p align="left">
 <a href="https://discord.com/users/Sparr0w#9195" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/benjithorpe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/benjamini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=benjithorpe&count_private=true&show_icons=true&theme=material-palenight" alt="benjithorpe's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sparrowsl&count_private=true&show_icons=true&theme=material-palenight" alt="benjithorpe's GitHub stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=benjithorpe&theme=material-palenight&hide_border=true&border_radius=5" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sparrowsl&theme=material-palenight&hide_border=true&border_radius=5" />
 </div>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=benjithorpe&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sparrowsl&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjithorpe&theme=material-palenight&layout=compact&langs_count=6" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparrowsl&theme=material-palenight&layout=compact&langs_count=6" alt="Top Languages"/>
