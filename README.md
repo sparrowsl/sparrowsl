@@ -51,6 +51,10 @@ src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the
 <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vercel-dark.svg'> </a>
 <!-- GitHub -->
 <a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<!-- Linux -->
+<a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
+<!-- SQLite -->
+<a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 </p>
 
 ### Socials
