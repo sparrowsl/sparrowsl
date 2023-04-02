@@ -9,10 +9,10 @@ I am super addicted to Svelte(Kit) and building fast, smooth, responsive, flexib
 * 🌍  I'm based in Sierra Leone
 * 🖥️  See my portfolio at [benthorpe.dev](http://www.benthorpe.dev)
 * ✉️  You can contact me at [benthorpe.dev@gmail.com](mailto:benthorpe.dev@gmail.com)
-* 🧠  I'm currently learning Node.js, UnoCSS, MongoDB, Express.js
+* 🧠  I'm currently learning Node.js, MongoDB, Express.js
+* 🚀  I'm currently working on [Tourism](http://github.com/sparrowsl/tourism)
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
 * ⚡  I prefer and love Backend 🤪🤪 but I use Sveltekit more😂😂
-<!-- * 🚀  I'm currently working on [SRMS (student result management system)](http://github.com/benjithorpe/SRMS) -->
 
 <a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
@@ -49,14 +49,17 @@ src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the
 <a href="https://netlify.com" target="_blank" rel="noreferrer"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/netlify.svg'> </a>
 <!-- Vercel -->
 <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vercel-dark.svg'> </a>
+<!-- GitHub -->
+<a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
 ### Socials
 
 <p align="left">
-<a href="https://discord.com/users/Sparr0w#9195" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://discord.com/users/sparrow#9195" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/benjamini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/sparrow_sl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 
