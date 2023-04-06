@@ -59,14 +59,14 @@ src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img width='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown"/> </a>
 </p>
 
-### Socials
+<!-- ### Socials
 
 <p align="left">
 <a href="https://discord.com/users/sparrow#9195" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/benjamini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/sparrow_sl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+</p> -->
 
 
 <div>
