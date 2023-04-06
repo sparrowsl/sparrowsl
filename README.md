@@ -72,9 +72,11 @@ src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=sparrowsl&count_private=true&show_icons=true&theme=material-palenight" alt="benjithorpe's GitHub stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sparrowsl&theme=material-palenight&hide_border=true&border_radius=5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparrowsl&theme=material-palenight&layout=compact&langs_count=6" alt="Top Languages"/>
 </div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sparrowsl&theme=material-palenight&hide_border=true&border_radius=5" />
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sparrowsl&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparrowsl&theme=material-palenight&layout=compact&langs_count=6" alt="Top Languages"/>
+
