@@ -9,7 +9,7 @@ I am super addicted to Svelte(Kit) and building fast, smooth, responsive, flexib
 * 🌍  I'm based in Sierra Leone
 * 🖥️  See my portfolio at [benthorpe.dev](http://www.benthorpe.dev)
 * ✉️  You can contact me at [benthorpe.dev@gmail.com](mailto:benthorpe.dev@gmail.com)
-* 🧠  I'm currently learning Node.js, MongoDB, Express.js
+* 🧠  I'm currently learning Express.js
 * 🚀  I'm currently working on [Tourneys](https://github.com/sparrowsl/tourneys-sl)
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
 * ⚡  I prefer and love Backend 🤪🤪 but I use Sveltekit more😂😂
