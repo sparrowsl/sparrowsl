@@ -14,7 +14,7 @@ I am super addicted to Svelte(Kit) and building fast, smooth, responsive, flexib
 * ⚡  I prefer and love Backend 🤪🤪 but I use Sveltekit more😂😂
 
 <a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
+src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a"/></a>
 
 ### Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
 
