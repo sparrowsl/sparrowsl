@@ -10,7 +10,6 @@ I am super addicted to Svelte(Kit) and building fast, smooth, responsive, flexib
 * 🖥️  See my portfolio at [benthorpe.dev](http://www.benthorpe.dev)
 * ✉️  You can contact me at [benthorpe.dev@gmail.com](mailto:benthorpe.dev@gmail.com)
 * 🧠  I'm currently learning Express.js
-<!-- * 🚀  I'm currently working on [Tourneys](https://github.com/sparrowsl/tourneys-sl) -->
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
 * ⚡  I prefer and love Backend 🤪🤪 but I use Sveltekit more😂😂
 
@@ -33,40 +32,31 @@ src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <!-- Svelte -->
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<!-- Vite -->
-<!-- <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>-->
 <!-- Node -->
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <!-- Express -->
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<!-- Dart -->
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <!-- Flutter -->
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <!-- Netlify -->
 <a href="https://netlify.com" target="_blank" rel="noreferrer"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/netlify.svg'> </a>
 <!-- Vercel -->
 <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vercel-dark.svg'> </a>
-<!-- GitHub -->
-<a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<!-- Linux -->
-<a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
 <!-- SQLite -->
 <a href= https://github.com/benjithorpe?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <!-- Markdown -->
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img width='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown"/> </a>
 </p>
 
-<!-- ### Socials
+### Socials
 
 <p align="left">
-<a href="https://discord.com/users/sparrow#9195" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/sparrowsl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/benjamini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/sparrow_sl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p> -->
+</p> 
 
 
 <div>
@@ -74,9 +64,3 @@ src="https://img.shields.io/github/followers/sparrowsl?logo=github&style=for-the
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparrowsl&theme=material-palenight&layout=compact&langs_count=6" alt="Top Languages"/>
 </div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sparrowsl&theme=material-palenight&hide_border=true&border_radius=5" />
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sparrowsl&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-
-
