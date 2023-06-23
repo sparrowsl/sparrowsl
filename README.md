@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am super addicted to Svelte(Kit) and building fast, smooth, responsive, flexible and simple websites and apps. "Less is More" and "Simple is Better than Complex" are my driving force.
+I am super addicted to Svelte(Kit) while building fast, smooth, responsive, flexible and simple websites and apps. "Less is More" and "Simple is Better than Complex" are my driving force.
 
 * 🌍  I'm based in Sierra Leone
 * 🖥️  See my portfolio at [benthorpe.dev](http://www.benthorpe.dev)
 * ✉️  You can contact me at [benthorpe.dev@gmail.com](mailto:benthorpe.dev@gmail.com)
-* 🧠  I'm currently learning Express.js
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
 * ⚡  I prefer and love Backend 🤪🤪 but I use Sveltekit more😂😂
 
