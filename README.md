@@ -44,7 +44,7 @@ I am super addicted to Svelte(Kit) while building fast, smooth, responsive, flex
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=sparrowsl&count_private=true&show_icons=true&theme=material-palenight" alt="benjithorpe's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sparrowsl&count_private=true&show_icons=true&theme=material-palenight" alt="Sparrow's GitHub stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparrowsl&theme=material-palenight&layout=compact&langs_count=6" alt="Top Languages"/>
 </div>
