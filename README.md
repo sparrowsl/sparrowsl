@@ -1,10 +1,10 @@
 Web Developer
 -------------
 
-I am super addicted to Svelte(Kit) while building fast, smooth, responsive, flexible and simple websites and apps. 
+I am super addicted to Svelte(Kit) while using it to build fast, smooth, responsive, flexible and simple websites and webapps. 
 >"Less is More" and "Simple is Better than Complex" are my driving force.
 
-* 🖥️  See my portfolio at [benthorpe.dev](http://www.benthorpe.dev)
+* 🖥️  See my portfolio at [benthorpe.dev](https://benthorpe.vercel.app)
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
 * ⚡  I prefer and love Backend 🤪🤪 but I use Sveltekit more😂😂
 
