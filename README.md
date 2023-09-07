@@ -1,7 +1,4 @@
-Web Developer
--------------
-
-I am super addicted to Svelte(Kit) while using it to build fast, smooth, responsive, flexible and simple websites and webapps. 
+Super addicted to Svelte(Kit) 
 >"Less is More" and "Simple is Better than Complex" are my driving force.
 
 * 🖥️  See my portfolio at [sparrowsl.xyz](https://www.sparrowsl.xyz)
