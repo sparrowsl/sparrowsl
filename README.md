@@ -1,5 +1,5 @@
-Super addicted to Svelte(Kit) 
->"Less is More" and "Simple is Better than Complex" are my driving force.
+Svelte(Kit) addict 
+>"Simple is Better than Complex" is my driving force.
 
 * 🖥️  See my portfolio at [sparrowsl.xyz](https://www.sparrowsl.xyz)
 * 🤝  I'm open to collaborating on Interesting, Fun and cool projects where I can learn
